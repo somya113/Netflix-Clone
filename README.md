@@ -4,7 +4,7 @@ A beautifully designed Netflix clone built with HTML, CSS, and JavaScript. This 
 
 ## Live Demo
 
-[Live deployment link will go here]
+[https://netflix-clone-seven-lovat-16.vercel.app](https://netflix-clone-seven-lovat-16.vercel.app)
 
 ## Features
 
